@@ -45,15 +45,6 @@
             }
         }
     }
-   
-//    if ([self.touchArray count] > 2) {
-//        for (int i = 0; i < self.touchArray.count-1; i++) {
-//            CGPoint startPoint = CGPointFromString(self.touchArray[i]);
-//            CGPoint endPoint = CGPointFromString(self.touchArray[i+1]);
-//            CGContextMoveToPoint(context, startPoint.x, startPoint.y);//设置起始点
-//            CGContextAddLineToPoint(context, endPoint.x, endPoint.y);//增加点
-//        }
-//    }
 
     //关闭路径
     CGContextClosePath(context);

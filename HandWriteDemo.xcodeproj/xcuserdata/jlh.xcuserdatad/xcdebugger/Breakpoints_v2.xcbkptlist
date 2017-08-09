@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "HandWriteDemo/HandWrite/ImageBezierHandWriteView.m"
-            timestampString = "514974673.232702"
+            timestampString = "523939357.775772"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "200"
-            endingLineNumber = "200"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
             landmarkName = "-blendImage:withColor:"
             landmarkType = "7">
          </BreakpointContent>
